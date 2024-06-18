@@ -1,4 +1,4 @@
-module tp
+module github.com/vorontsoved/test_package
 
 go 1.22.0
 
